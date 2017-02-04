@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Authentication Sample</string>
+
+    <string name="facebook_app_id">FACEBOOK_APP_ID</string>
+    <string name="account_kit_client_token">ACCOUNT_KIT_CLIENT_TOKEN</string>
+    <string name="ak_login_protocol_scheme">AK_LOGIN_PROTOCOL_SCHEME</string>
+
+    <string name="twitter_key">TWITTER_KEY</string>
+    <string name="twitter_secret">TWITTER_SECRET</string>
+
+    <string name="fabric_digits">Fabric Digits</string>
+    <string name="account_kit">Facebook Account Kit</string>
+    <string name="firebase_referral">Firebase Referral</string>
+    <string name="log_in_email_button">Log In via Email</string>
+    <string name="log_in_phone_button">Log In via Phone</string>
+    <string name="send_invitation">Send Invitation</string>
+    <string name="invitation_title">Invitation Testing</string>
+    <string name="invitation_message">Check out this awesome app!</string>
+    <string name="invitation_deep_link">Hello there!</string>
+    <string name="branch_referral">Branch Referral</string>
+</resources>
